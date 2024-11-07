@@ -1,7 +1,27 @@
 body{
-    background-color: rgb(25, 146, 146);
+    background-color: rgb(12, 95, 95);
 }
 h1{
     color:rgb(124, 214, 22);
     text-align: center;
+}
+a{
+    text-align: center;
+    color: blue;
+}
+nav{
+     text-align: center;
+}
+.cabeçalho{
+    background-color: black;
+    margin: 0;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+main{
+     background-color: blueviolet;
+     padding: 20px;
+
 }
